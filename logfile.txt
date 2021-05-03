@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+D:\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\BlueJ\lib\bluejcore.jar;D:\BlueJ\lib\junit-4.11.jar;D:\BlueJ\lib\hamcrest-core-1.3.jar;D:\BlueJ\lib\lang-stride.jar;D:\BlueJ\lib\javafx\lib\javafx.base.jar;D:\BlueJ\lib\javafx\lib\javafx.controls.jar;D:\BlueJ\lib\javafx\lib\javafx.fxml.jar;D:\BlueJ\lib\javafx\lib\javafx.graphics.jar;D:\BlueJ\lib\javafx\lib\javafx.media.jar;D:\BlueJ\lib\javafx\lib\javafx.properties.jar;D:\BlueJ\lib\javafx\lib\javafx.swing.jar;D:\BlueJ\lib\javafx\lib\javafx.web.jar;G:\Schule (Q2)\Info\Vor zweite Klausur\Datenbanken\sqlite\sqlite-jdbc-3.27.2.1.jar;F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme
+-d
+F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\Student.java
+<---- end of javadoc command ---->
+Loading source file F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\Student.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc\Student.html...
+Generating F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc\package-summary.html...
+Generating F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc\allclasses.html...
+Generating F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc\allclasses.html...
+Generating F:\1._Semester\Datenstrukturen,_Algorithmen_und_Programmierung_1_(DAP_1)\Woche_4_(23.11.-27.11.2020)\[doc][lernen]DAP1_4-Programme\doc\index.html...
